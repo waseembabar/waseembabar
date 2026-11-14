@@ -1,4 +1,19 @@
 
+
+## 📊 GitHub Stats
+
+![Waseem Babar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=waseembabar&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=waseembabar&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=waseembabar&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=waseembabar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ## 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/🌎_Portfolio-Visit-blue?style=for-the-badge)](https://waseembabar.netlify.app/)
@@ -30,14 +45,3 @@
 ---
 
  
-## 📊 GitHub Stats
-
-![Waseem Babar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=waseembabar&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=waseembabar&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=waseembabar&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=waseembabar&icon=0&color=0)](https://visitcount.itsvg.in)
