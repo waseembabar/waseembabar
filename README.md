@@ -3,14 +3,14 @@
 ## 📊 GitHub Stats
 
 ![Waseem Babar's GitHub Stats](https://github-stats-extended.vercel.app/api?username=waseembabar&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=waseembabar&theme=tokyonight&hide_border=false&layout=compact)
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=waseembabar&theme=tokyonight&hide_border=false)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=waseembabar&icon=0&color=0)](https://visitcount.itsvg.in)
-![GitHub Streak](https://streak-stats.demolab.com/?user=waseembabar&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=waseembabar&theme=tokyonight&hide_border=false&layout=compact)
 
 
 
